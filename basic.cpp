@@ -110,7 +110,7 @@ void printList(Node* head) {
 }
 int main() {
     Node* head = NULL;
-    insertAtTail(head, 10);
+    insertAtTail(head, 78);
     insertAtTail(head, 20);
     insertAtTail(head, 30);
     printList(head);
